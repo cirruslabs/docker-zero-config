@@ -1,2 +1,4 @@
-# docker-zero-config
-Zero-configuration repository for Cirrus CI
+# Zero-configuration repository for Cirrus CI
+
+Repository with only `Dockerfile` presented (no `.cirrus.yml`).
+
