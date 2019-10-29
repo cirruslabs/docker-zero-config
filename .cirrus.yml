@@ -1,7 +1,7 @@
 task:
   name: Docker Build
   container:
-    image: gcr.io/kaniko-project/executor:latest
+    image: gcr.io/kaniko-project/executor:v0.9.0
   env:
     CIRRUS_SHELL: direct
     CIRRUS_WORKING_DIR: /workspace
